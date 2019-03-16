@@ -1,0 +1,10 @@
+.mot{
+    font-size: 40px;
+    font-weight: bold;
+    padding:16px;
+    margin-bottom:8px;
+    border-color: bisque;
+    border-width: 50px 50px 50px 60px ;
+    border-radius: 5px;
+    border-style: solid;
+}
